@@ -1,0 +1,37 @@
+body {
+    background-color: lightblue;
+    margin: 0px;
+    padding: 20px;
+}
+
+
+
+
+header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+
+class {
+    height: 50px;
+    width: 50px;
+}
+
+nav {
+text-align: center;
+align-items: center;
+justify-content: center;
+}
+
+main {
+    text-align: left;
+    align-items: end;
+}
+
